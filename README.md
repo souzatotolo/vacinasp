@@ -27,3 +27,7 @@ App com o objetivo de divulgar um número atualizado de pessoas já vacinadas co
     </tr>
 
 </table>
+
+# Acesse em: 
+
+https://expo.io/@richard.totolo/projects/vacinasp
